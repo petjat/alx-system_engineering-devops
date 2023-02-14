@@ -1,6 +1,2 @@
 #!/bin/bash
-Arithmetic expansion uses the form:
-
-echo $(($expression))/ (($expression))
-
 echo $(($POWER / $DIVIDE))
